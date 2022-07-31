@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### How to reach me?
 
-<a href="https://www.linkedin.com/in/leonardo-palmucci" /><img width=35 height=auto src="https://raw.githubusercontent.com/palmleon/palmleon/main/icons/linkedin.svg" /> </a>
-<a href="mailto://leonardo.palmucci@alice.it" /><img width=35 height=auto src="https://raw.githubusercontent.com/palmleon/palmleon/main/icons/mail.svg"/></a>
+<a href="https://www.linkedin.com/in/leonardo-palmucci" /><img width=35 height=auto src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /> </a>
+<a href="mailto://leonardo.palmucci@alice.it" /><img width=35 height=auto src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-email-material-design-512.png"/></a>
 
 ### Languages and Tools I have worked with
 
@@ -48,6 +48,18 @@ Here are some ideas to get you started:
   
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://iconape.com/wp-content/files/ow/352974/svg/arduino-seeklogo.com.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.jflex.de/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/11003365?s=200&v=4" alt="JFlex" width="40" height="40"/>
+  </a>
+  
+  <a href="http://www2.cs.tum.edu/projects/cup/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUYJntGGbzsXWXvP8mhEzjXII590JQ4wRMJRyD9SFE5rNsQ_P9LjZLF_RUf3hxmuZryI&usqp=CAU" alt="Java Cup" width="40" height="40"/>
   </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -84,5 +96,14 @@ Here are some ideas to get you started:
   <a href="https://www.gnu.org/software/make/" target="_blank">
     <img src="https://plugins.jetbrains.com/files/9333/199740/icon/pluginIcon.svg" alt="Make" width="40" height="40"/>
   </a>
-    
+  
+  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank">
+    <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b7/86/21/b78621df-138c-b347-e35a-39ec08e2a06f/source/200x200bb.jpg" alt="VHDL" width="40" height="40"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/SystemC" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/wxEfXI6JpCtmlvzbSMIxDvFvDTzRS0XgSUbkUdEPLjBuXfwyuFseqqJuLXYKQbmXIZI4=w240-h480-rw" alt="SystemC" width="40" height="40"/>
+  </a>
+ 
+  
 </p>
