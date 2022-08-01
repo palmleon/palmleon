@@ -52,6 +52,10 @@ Here are some ideas to get you started:
   
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://iconape.com/wp-content/files/ow/352974/svg/arduino-seeklogo.com.svg" alt="arduino" width="40" height="40"/>
+  </a>  
+    
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="35" height="40"/>
   </a>
   
   <a href="https://www.jflex.de/" target="_blank">
