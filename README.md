@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/leonardo-palmucci" /><img width=35 height=auto src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /> </a>
 <a href="mailto://leonardo.palmucci@alice.it" /><img width=35 height=auto src="https://cdn1.iconfinder.com/data/icons/material-apps/512/icon-email-material-design-512.png"/></a>
 
-### Languages and Tools I have worked with
+### Languages and Tools I have been working with
 
 <p align="left"> 
     
