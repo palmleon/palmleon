@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### A quick presentation
 
 - 😄 Pronouns: He/Him
-- 🎓 Currently studying Computer Engineering (Embedded Systems Track) @ Politecnico di Torino <img src="https://user-images.githubusercontent.com/61068503/182033992-d6b8077f-27a1-4569-b4a3-de848f526b00.png" width=20 height=auto margin-top=10px/>
 - <img src="https://cdn-icons-png.flaticon.com/512/944/944255.png" width=20 height=auto> Building Rovers @ <a href="https://www.teamdiana.it/" />Team DIANA</a> <img src="https://www.teamdiana.it/wp-content/uploads/elementor/thumbs/DIANA-Emblem-light-1-patp7stkr2sd1z4lvxlp64vpsunslj7k0g5045fxtw.png" width=20 height=auto />
 - 💻 Interested in Embedded Firmware and SW Development, Compilers, Software Engineering 
 - 🕹 Amateur cook, gamer, piano player
